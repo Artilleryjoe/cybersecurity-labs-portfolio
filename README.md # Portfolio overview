@@ -1,17 +1,101 @@
-# 🧠 Cybersecurity Labs Portfolio
+🧠 Cybersecurity Labs Portfolio
 
 Welcome! This repository contains my hands-on labs from cybersecurity training, demonstrating skills in ethical hacking, network defense, web application testing, and intrusion detection.
 
-## 🗂️ Lab Index
+🗂️ Lab Index
 
-| Lab | Summary |
-|-----|---------|
-| [Windows 7 Exploitation](./windows7-exploitation) | EternalBlue RCE with Metasploit |
-| [SQL Injection Lab](./sql-injection-lab) | Manual and automated injection exploitation |
-| [Credential Compromise](./credential-compromise) | MITM credential capture using responder tools |
-| [DDoS Simulation](./ddos-simulation) | Simulated DDoS attack and detection strategies |
-| [Session Hijacking - BurpSuite](./session-hijacking-burpsuite) | Stealing sessions via insecure cookies |
-| [RDP Post-Exploration](./metasploit-rdp-post-exploration) | Harvesting creds and persistence post-access |
-| [Web App Security Analysis](./webapp-security-analysis) | OWASP Top 10 evaluation on vulnerable apps |
-| [IDS Config with Snort](./snort-ids-configuration) | Rule writing, detection tuning, packet analysis |
-| [Legion Pentesting Framework](./legion-pentesting-framework) | Service enumeration, reporting, and workflow |
+Lab
+
+Summary
+
+Windows 7 Exploitation
+
+EternalBlue RCE with Metasploit
+
+SQL Injection Lab
+
+Manual and automated injection exploitation
+
+Credential Compromise
+
+MITM credential capture using responder tools
+
+DDoS Simulation
+
+Simulated DDoS attack and detection strategies
+
+Session Hijacking - BurpSuite
+
+Stealing sessions via insecure cookies
+
+RDP Post-Exploration
+
+Harvesting creds and persistence post-access
+
+Web App Security Analysis
+
+OWASP Top 10 evaluation on vulnerable apps
+
+IDS Config with Snort
+
+Rule writing, detection tuning, packet analysis
+
+Legion Pentesting Framework
+
+Service enumeration, reporting, and workflow
+
+Capturing and Exporting Network Data
+
+Wireshark traffic capture and PCAP exports
+
+Website Reconnaissance
+
+Domain intel gathering and open port discovery
+
+Memory Analysis with Volatility
+
+Malware detection through memory forensics
+
+Python for Pentesting
+
+Custom Python tools for scanning and attack
+
+DHCP Starvation Attack
+
+Denial of IPs via rogue DHCP requests
+
+Local Privilege Escalation
+
+Gaining root from user access via exploits
+
+Memory-Based Attack
+
+Shellcode injection bypassing disk detection
+
+Vulnerability Scan - OpenVAS
+
+OpenVAS-based vulnerability assessment
+
+XSS Website Attack
+
+Stored and reflected XSS injection
+
+SSH Server Setup
+
+Hardened remote Linux access configuration
+
+Active Directory User Management
+
+Central identity and group policy control
+
+Root Password Reset
+
+Single-user GRUB access recovery
+
+Vulnerability Scan - Nessus
+
+Nessus security scans and reports
+
+Overflow Exploitation
+
+Buffer overflow for remote access gain
