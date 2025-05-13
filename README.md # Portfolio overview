@@ -8,94 +8,48 @@ Lab
 
 Summary
 
-Windows 7 Exploitation
+Windows 7 Exploitation -- EternalBlue RCE with Metasploit
 
-EternalBlue RCE with Metasploit
+SQL Injection Lab -- Manual and automated injection exploitation
 
-SQL Injection Lab
+Credential Compromise -- MITM credential capture using responder tools
 
-Manual and automated injection exploitation
+DDoS Simulation -- Simulated DDoS attack and detection strategies
 
-Credential Compromise
+Session Hijacking - BurpSuite -- Stealing sessions via insecure cookies
 
-MITM credential capture using responder tools
+RDP Post-Exploration -- Harvesting creds and persistence post-access
 
-DDoS Simulation
+Web App Security Analysis -- OWASP Top 10 evaluation on vulnerable apps
 
-Simulated DDoS attack and detection strategies
+IDS Config with Snort -- Rule writing, detection tuning, packet analysis
 
-Session Hijacking - BurpSuite
+Legion Pentesting Framework -- Service enumeration, reporting, and workflow
 
-Stealing sessions via insecure cookies
+Capturing Network Data -- Network packet capture and forensic analysis
 
-RDP Post-Exploration
+Website Reconnaissance -- Domain research and attack surface mapping
 
-Harvesting creds and persistence post-access
+Volatility Memory Analysis -- Malware and hidden process detection
 
-Web App Security Analysis
+Python for Pentesting -- Automation with Python scripts and scanners
 
-OWASP Top 10 evaluation on vulnerable apps
+DHCP Starvation -- IP exhaustion denial-of-service attack
 
-IDS Config with Snort
+Privilege Escalation -- Kernel exploits for root access
 
-Rule writing, detection tuning, packet analysis
+Memory-Based Attack -- In-memory shellcode injection
 
-Legion Pentesting Framework
+OpenVAS Scanning -- Vulnerability discovery and assessment
 
-Service enumeration, reporting, and workflow
+XSS Attack -- Client-side script injection demonstration
 
-Capturing and Exporting Network Data
+SSH Server Configuration -- Secure shell setup and hardening
 
-Wireshark traffic capture and PCAP exports
+Active Directory Management -- Windows user and group management
 
-Website Reconnaissance
+Resetting Root Password -- Linux system recovery and root access regain
 
-Domain intel gathering and open port discovery
+Nessus Scanning -- Security scans and vulnerability reports
 
-Memory Analysis with Volatility
-
-Malware detection through memory forensics
-
-Python for Pentesting
-
-Custom Python tools for scanning and attack
-
-DHCP Starvation Attack
-
-Denial of IPs via rogue DHCP requests
-
-Local Privilege Escalation
-
-Gaining root from user access via exploits
-
-Memory-Based Attack
-
-Shellcode injection bypassing disk detection
-
-Vulnerability Scan - OpenVAS
-
-OpenVAS-based vulnerability assessment
-
-XSS Website Attack
-
-Stored and reflected XSS injection
-
-SSH Server Setup
-
-Hardened remote Linux access configuration
-
-Active Directory User Management
-
-Central identity and group policy control
-
-Root Password Reset
-
-Single-user GRUB access recovery
-
-Vulnerability Scan - Nessus
-
-Nessus security scans and reports
-
-Overflow Exploitation
-
-Buffer overflow for remote access gain
+Buffer Overflow Exploit -- Web application buffer overflow attack
