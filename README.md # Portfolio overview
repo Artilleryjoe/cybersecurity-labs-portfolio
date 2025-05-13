@@ -1,1 +1,17 @@
+# 🧠 Cybersecurity Labs Portfolio
 
+Welcome! This repository contains my hands-on labs from cybersecurity training, demonstrating skills in ethical hacking, network defense, web application testing, and intrusion detection.
+
+## 🗂️ Lab Index
+
+| Lab | Summary |
+|-----|---------|
+| [Windows 7 Exploitation](./windows7-exploitation) | EternalBlue RCE with Metasploit |
+| [SQL Injection Lab](./sql-injection-lab) | Manual and automated injection exploitation |
+| [Credential Compromise](./credential-compromise) | MITM credential capture using responder tools |
+| [DDoS Simulation](./ddos-simulation) | Simulated DDoS attack and detection strategies |
+| [Session Hijacking - BurpSuite](./session-hijacking-burpsuite) | Stealing sessions via insecure cookies |
+| [RDP Post-Exploration](./metasploit-rdp-post-exploration) | Harvesting creds and persistence post-access |
+| [Web App Security Analysis](./webapp-security-analysis) | OWASP Top 10 evaluation on vulnerable apps |
+| [IDS Config with Snort](./snort-ids-configuration) | Rule writing, detection tuning, packet analysis |
+| [Legion Pentesting Framework](./legion-pentesting-framework) | Service enumeration, reporting, and workflow |
