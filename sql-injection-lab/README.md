@@ -2,7 +2,7 @@
 
 This lab demonstrates how to detect and exploit SQL Injection vulnerabilities in a web application.
 
-Tools Used
+**Tools Used**
 
 SQLMap
 
