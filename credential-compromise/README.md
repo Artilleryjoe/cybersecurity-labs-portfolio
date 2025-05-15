@@ -1,8 +1,10 @@
 
 **Description**
+
 Simulated a credential compromise scenario to demonstrate how stolen or weak credentials can lead to unauthorized system access.
 
 **Tools Used**
+
 Hydra – for brute-force attacks on SSH and HTTP login portals
 
 Burp Suite – for intercepting and manipulating web login requests
@@ -16,6 +18,7 @@ Metasploit – for post-compromise exploitation
 Wireshark – for network traffic analysis
 
 **Key Steps**
+
 Identified target login services (SSH/Web App)
 
 Launched brute-force attack using Hydra
@@ -29,5 +32,6 @@ Optionally escalated access or performed lateral movement
 Monitored traffic and logged suspicious login behavior
 
 **Outcome**
+
 Successfully demonstrated the risks of weak or reused credentials. Gained unauthorized access and documented the process to highlight detection opportunities and the importance of secure password policies.
 
